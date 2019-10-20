@@ -2,7 +2,7 @@
 
 මෙම් ව්‍යාපෘතිය එච්.ටී.එම්.ඈල් සින්හලට පරිවර්තනය කිරීම සන්දහා නිර්මානය කරන ලද්දකි. එම පරිවර්තන ක්‍රියාවලිය වෙබ් පෑක් ලොඩරයක් මගින් සිදු වේ.
 
-![alt](https://raw.githubusercontent.com/supuncodes/sinhala-html-translation/master/images/code.png =600x)
+![alt](https://raw.githubusercontent.com/supuncodes/sinhala-html-translation/master/images/code.png | width=600)
 
 # ස්ථාපනය සහ පරීක්ෂා කිරීම
 
@@ -15,7 +15,7 @@
 
 එවිට වෙබ් සර්වරය පොට් 8080 වලින් ලිසන් කිරිමට පටන් ගෙන, බ්‍රොව්සරය තුල අප විසින් ඔබට සපයා ඈති සාම්පලය පෙන්විමට පටන් ගනී. 
 
-![alt](https://raw.githubusercontent.com/supuncodes/sinhala-html-translation/master/images/browser.png =400x)
+![alt](https://raw.githubusercontent.com/supuncodes/sinhala-html-translation/master/images/browser.png | width=400)
 
 src පොල්ඩරය තුල ඔබට සින්හල එච්.ටී.එම්.ඈල් සාම්පලය දෑක බලා ගත හෑක.
 
