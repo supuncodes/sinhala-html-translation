@@ -1,22 +1,388 @@
 {
-    "අඩවිය":{
-        "name":"html",
-        "attributes":{
-            "භාෂාව":{
-                "name":"lang",
-                "values":{
+    "{form}": {
+        "name": "form",
+        "attributes": {
+            "{accept}": {
+                "name": "accept",
+                "values": {}
+            },
+            "{accept-charset}": {
+                "name": "accept-charset",
+                "values": {}
+            },
+            "{action}": {
+                "name": "action",
+                "values": {}
+            },
+            "{autocomplete}": {
+                "name": "autocomplete",
+                "values": {}
+            },
+            "{enctype}": {
+                "name": "enctype",
+                "values": {}
+            },
+            "{method}": {
+                "name": "method",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{novalidate}": {
+                "name": "novalidate",
+                "values": {}
+            },
+            "{target}": {
+                "name": "target",
+                "values": {}
+            }
+        }
+    },
+    "{input}": {
+        "name": "input",
+        "attributes": {
+            "{accept}": {
+                "name": "accept",
+                "values": {}
+            },
+            "{alt}": {
+                "name": "alt",
+                "values": {}
+            },
+            "{autocomplete}": {
+                "name": "autocomplete",
+                "values": {}
+            },
+            "{autofocus}": {
+                "name": "autofocus",
+                "values": {}
+            },
+            "{checked}": {
+                "name": "checked",
+                "values": {}
+            },
+            "{dirname}": {
+                "name": "dirname",
+                "values": {}
+            },
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{formaction}": {
+                "name": "formaction",
+                "values": {}
+            },
+            "{formenctype}": {
+                "name": "formenctype",
+                "values": {}
+            },
+            "{formmethod}": {
+                "name": "formmethod",
+                "values": {}
+            },
+            "{formnovalidate}": {
+                "name": "formnovalidate",
+                "values": {}
+            },
+            "{formtarget}": {
+                "name": "formtarget",
+                "values": {}
+            },
+            "{height}": {
+                "name": "height",
+                "values": {}
+            },
+            "{list}": {
+                "name": "list",
+                "values": {}
+            },
+            "{max}": {
+                "name": "max",
+                "values": {}
+            },
+            "{maxlength}": {
+                "name": "maxlength",
+                "values": {}
+            },
+            "{minlength}": {
+                "name": "minlength",
+                "values": {}
+            },
+            "{min}": {
+                "name": "min",
+                "values": {}
+            },
+            "{multiple}": {
+                "name": "multiple",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{pattern}": {
+                "name": "pattern",
+                "values": {}
+            },
+            "{placeholder}": {
+                "name": "placeholder",
+                "values": {}
+            },
+            "{readonly}": {
+                "name": "readonly",
+                "values": {}
+            },
+            "{required}": {
+                "name": "required",
+                "values": {}
+            },
+            "{size}": {
+                "name": "size",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{step}": {
+                "name": "step",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            },
+            "{usemap}": {
+                "name": "usemap",
+                "values": {}
+            },
+            "{value}": {
+                "name": "value",
+                "values": {}
+            },
+            "{width}": {
+                "name": "width",
+                "values": {}
+            }
+        }
+    },
+    "පොදු": {
+        "name": "global",
+        "attributes": {
+            "{accesskey}": {
+                "name": "accesskey",
+                "values": {}
+            },
+            "{autocapitalize}": {
+                "name": "autocapitalize",
+                "values": {}
+            },
+            "{class}": {
+                "name": "class",
+                "values": {}
+            },
+            "{contenteditable}": {
+                "name": "contenteditable",
+                "values": {}
+            },
+            "{contextmenu}": {
+                "name": "contextmenu",
+                "values": {}
+            },
+            "{data-*}": {
+                "name": "data-*",
+                "values": {}
+            },
+            "{dir}": {
+                "name": "dir",
+                "values": {}
+            },
+            "{draggable}": {
+                "name": "draggable",
+                "values": {}
+            },
+            "{dropzone}": {
+                "name": "dropzone",
+                "values": {}
+            },
+            "{hidden}": {
+                "name": "hidden",
+                "values": {}
+            },
+            "{id}": {
+                "name": "id",
+                "values": {}
+            },
+            "{itemprop}": {
+                "name": "itemprop",
+                "values": {}
+            },
+            "භාෂාව": {
+                "name": "lang",
+                "values": {
                     "කඩ්ඩ":"en"
                 }
+            },
+            "{slot}": {
+                "name": "slot",
+                "values": {}
+            },
+            "{spellcheck}": {
+                "name": "spellcheck",
+                "values": {}
+            },
+            "{style}": {
+                "name": "style",
+                "values": {}
+            },
+            "{tabindex}": {
+                "name": "tabindex",
+                "values": {}
+            },
+            "{title}": {
+                "name": "title",
+                "values": {}
+            },
+            "{translate}": {
+                "name": "translate",
+                "values": {}
             }
-        },
-        "end":true
+        }
     },
-    "විස්තරය":{
-        "name":"meta",
-        "attributes":{
-            "අකුරුසෙට්එක":{
-                "name":"charset",
-                "values":{}
+    "{applet}": {
+        "name": "applet",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{alt}": {
+                "name": "alt",
+                "values": {}
+            },
+            "{code}": {
+                "name": "code",
+                "values": {}
+            },
+            "{codebase}": {
+                "name": "codebase",
+                "values": {}
+            }
+        }
+    },
+    "{caption}": {
+        "name": "caption",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            }
+        }
+    },
+    "{col}": {
+        "name": "col",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            },
+            "{span}": {
+                "name": "span",
+                "values": {}
+            }
+        }
+    },
+    "{colgroup}": {
+        "name": "colgroup",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            },
+            "{span}": {
+                "name": "span",
+                "values": {}
+            }
+        }
+    },
+    "{hr}": {
+        "name": "hr",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{color}": {
+                "name": "color",
+                "values": {}
+            }
+        }
+    },
+    "{iframe}": {
+        "name": "iframe",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{allow}": {
+                "name": "allow",
+                "values": {}
+            },
+            "{csp}": {
+                "name": "csp",
+                "values": {}
+            },
+            "{height}": {
+                "name": "height",
+                "values": {}
+            },
+            "{importance}": {
+                "name": "importance",
+                "values": {}
+            },
+            "{loading}": {
+                "name": "loading",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{referrerpolicy}": {
+                "name": "referrerpolicy",
+                "values": {}
+            },
+            "{sandbox}": {
+                "name": "sandbox",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{srcdoc}": {
+                "name": "srcdoc",
+                "values": {}
+            },
+            "{width}": {
+                "name": "width",
+                "values": {}
             }
         }
     },
@@ -24,26 +390,1187 @@
         "name":"head"
     },
     "මතෘකාව":{
-        "name":"title",
-        "end":true
+        "name":"title"
     },
-    "ඈමිනීම":{
-        "name":"link",
-        "attributes":{
-            "වර්ගය":{
-                "name":"type"
+    "රූපය": {
+        "name": "img",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
             },
-            "නෑකම":{
-                "name":"rel",
-                "values":{}
+            "{alt}": {
+                "name": "alt",
+                "values": {}
             },
-            "ඉස්තානය":{
-                "name":"href"
+            "{border}": {
+                "name": "border",
+                "values": {}
+            },
+            "{crossorigin}": {
+                "name": "crossorigin",
+                "values": {}
+            },
+            "{decoding}": {
+                "name": "decoding",
+                "values": {}
+            },
+            "උස": {
+                "name": "height",
+                "values": {}
+            },
+            "{importance}": {
+                "name": "importance",
+                "values": {}
+            },
+            "{intrinsicsize}": {
+                "name": "intrinsicsize",
+                "values": {}
+            },
+            "{ismap}": {
+                "name": "ismap",
+                "values": {}
+            },
+            "{loading}": {
+                "name": "loading",
+                "values": {}
+            },
+            "{referrerpolicy}": {
+                "name": "referrerpolicy",
+                "values": {}
+            },
+            "{sizes}": {
+                "name": "sizes",
+                "values": {}
+            },
+            "ඉස්තානය": {
+                "name": "src",
+                "values": {}
+            },
+            "{srcset}": {
+                "name": "srcset",
+                "values": {}
+            },
+            "{usemap}": {
+                "name": "usemap",
+                "values": {}
+            },
+            "පලල": {
+                "name": "width",
+                "values": {}
             }
         }
     },
-    "බොඩිය":{
-        "name":"body"
+    "{table}": {
+        "name": "table",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{background}": {
+                "name": "background",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            },
+            "{border}": {
+                "name": "border",
+                "values": {}
+            },
+            "{summary}": {
+                "name": "summary",
+                "values": {}
+            }
+        }
+    },
+    "{tbody}": {
+        "name": "tbody",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            }
+        }
+    },
+    "{td}": {
+        "name": "td",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{background}": {
+                "name": "background",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            },
+            "{colspan}": {
+                "name": "colspan",
+                "values": {}
+            },
+            "{headers}": {
+                "name": "headers",
+                "values": {}
+            },
+            "{rowspan}": {
+                "name": "rowspan",
+                "values": {}
+            }
+        }
+    },
+    "{tfoot}": {
+        "name": "tfoot",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            }
+        }
+    },
+    "{th}": {
+        "name": "th",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{background}": {
+                "name": "background",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            },
+            "{colspan}": {
+                "name": "colspan",
+                "values": {}
+            },
+            "{headers}": {
+                "name": "headers",
+                "values": {}
+            },
+            "{rowspan}": {
+                "name": "rowspan",
+                "values": {}
+            },
+            "{scope}": {
+                "name": "scope",
+                "values": {}
+            }
+        }
+    },
+    "{thead}": {
+        "name": "thead",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            }
+        }
+    },
+    "{tr}": {
+        "name": "tr",
+        "attributes": {
+            "{align}": {
+                "name": "align",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            }
+        }
+    },
+    "{area}": {
+        "name": "area",
+        "attributes": {
+            "{alt}": {
+                "name": "alt",
+                "values": {}
+            },
+            "{coords}": {
+                "name": "coords",
+                "values": {}
+            },
+            "{download}": {
+                "name": "download",
+                "values": {}
+            },
+            "{href}": {
+                "name": "href",
+                "values": {}
+            },
+            "{hreflang}": {
+                "name": "hreflang",
+                "values": {}
+            },
+            "{media}": {
+                "name": "media",
+                "values": {}
+            },
+            "{ping}": {
+                "name": "ping",
+                "values": {}
+            },
+            "{referrerpolicy}": {
+                "name": "referrerpolicy",
+                "values": {}
+            },
+            "නෑකම": {
+                "name": "rel",
+                "values": {}
+            },
+            "{shape}": {
+                "name": "shape",
+                "values": {}
+            },
+            "{target}": {
+                "name": "target",
+                "values": {}
+            }
+        }
+    },
+    "{script}": {
+        "name": "script",
+        "attributes": {
+            "{async}": {
+                "name": "async",
+                "values": {}
+            },
+            "{charset}": {
+                "name": "charset",
+                "values": {}
+            },
+            "{crossorigin}": {
+                "name": "crossorigin",
+                "values": {}
+            },
+            "{defer}": {
+                "name": "defer",
+                "values": {}
+            },
+            "{importance}": {
+                "name": "importance",
+                "values": {}
+            },
+            "{integrity}": {
+                "name": "integrity",
+                "values": {}
+            },
+            "{language}": {
+                "name": "language",
+                "values": {}
+            },
+            "{referrerpolicy}": {
+                "name": "referrerpolicy",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            }
+        }
+    },
+    "{select}": {
+        "name": "select",
+        "attributes": {
+            "{autocomplete}": {
+                "name": "autocomplete",
+                "values": {}
+            },
+            "{autofocus}": {
+                "name": "autofocus",
+                "values": {}
+            },
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{multiple}": {
+                "name": "multiple",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{required}": {
+                "name": "required",
+                "values": {}
+            },
+            "{size}": {
+                "name": "size",
+                "values": {}
+            }
+        }
+    },
+    "{textarea}": {
+        "name": "textarea",
+        "attributes": {
+            "{autocomplete}": {
+                "name": "autocomplete",
+                "values": {}
+            },
+            "{autofocus}": {
+                "name": "autofocus",
+                "values": {}
+            },
+            "{cols}": {
+                "name": "cols",
+                "values": {}
+            },
+            "{dirname}": {
+                "name": "dirname",
+                "values": {}
+            },
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{enterkeyhint}": {
+                "name": "enterkeyhint",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{inputmode}": {
+                "name": "inputmode",
+                "values": {}
+            },
+            "{maxlength}": {
+                "name": "maxlength",
+                "values": {}
+            },
+            "{minlength}": {
+                "name": "minlength",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{placeholder}": {
+                "name": "placeholder",
+                "values": {}
+            },
+            "{readonly}": {
+                "name": "readonly",
+                "values": {}
+            },
+            "{required}": {
+                "name": "required",
+                "values": {}
+            },
+            "{rows}": {
+                "name": "rows",
+                "values": {}
+            },
+            "{wrap}": {
+                "name": "wrap",
+                "values": {}
+            }
+        }
+    },
+    "{button}": {
+        "name": "button",
+        "attributes": {
+            "{autofocus}": {
+                "name": "autofocus",
+                "values": {}
+            },
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{formaction}": {
+                "name": "formaction",
+                "values": {}
+            },
+            "{formenctype}": {
+                "name": "formenctype",
+                "values": {}
+            },
+            "{formmethod}": {
+                "name": "formmethod",
+                "values": {}
+            },
+            "{formnovalidate}": {
+                "name": "formnovalidate",
+                "values": {}
+            },
+            "{formtarget}": {
+                "name": "formtarget",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            },
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
+    },
+    "{keygen}": {
+        "name": "keygen",
+        "attributes": {
+            "{autofocus}": {
+                "name": "autofocus",
+                "values": {}
+            },
+            "{challenge}": {
+                "name": "challenge",
+                "values": {}
+            },
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{keytype}": {
+                "name": "keytype",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            }
+        }
+    },
+    "{audio}": {
+        "name": "audio",
+        "attributes": {
+            "{autoplay}": {
+                "name": "autoplay",
+                "values": {}
+            },
+            "{buffered}": {
+                "name": "buffered",
+                "values": {}
+            },
+            "{controls}": {
+                "name": "controls",
+                "values": {}
+            },
+            "{crossorigin}": {
+                "name": "crossorigin",
+                "values": {}
+            },
+            "{loop}": {
+                "name": "loop",
+                "values": {}
+            },
+            "{muted}": {
+                "name": "muted",
+                "values": {}
+            },
+            "{preload}": {
+                "name": "preload",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            }
+        }
+    },
+    "{video}": {
+        "name": "video",
+        "attributes": {
+            "{autoplay}": {
+                "name": "autoplay",
+                "values": {}
+            },
+            "{buffered}": {
+                "name": "buffered",
+                "values": {}
+            },
+            "{controls}": {
+                "name": "controls",
+                "values": {}
+            },
+            "{crossorigin}": {
+                "name": "crossorigin",
+                "values": {}
+            },
+            "{height}": {
+                "name": "height",
+                "values": {}
+            },
+            "{loop}": {
+                "name": "loop",
+                "values": {}
+            },
+            "{muted}": {
+                "name": "muted",
+                "values": {}
+            },
+            "{poster}": {
+                "name": "poster",
+                "values": {}
+            },
+            "{preload}": {
+                "name": "preload",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{width}": {
+                "name": "width",
+                "values": {}
+            }
+        }
+    },
+    "බොඩිය": {
+        "name": "body",
+        "attributes": {
+            "{background}": {
+                "name": "background",
+                "values": {}
+            },
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            }
+        }
+    },
+    "{marquee}": {
+        "name": "marquee",
+        "attributes": {
+            "{bgcolor}": {
+                "name": "bgcolor",
+                "values": {}
+            },
+            "{loop}": {
+                "name": "loop",
+                "values": {}
+            }
+        }
+    },
+    "{object}": {
+        "name": "object",
+        "attributes": {
+            "{border}": {
+                "name": "border",
+                "values": {}
+            },
+            "{data}": {
+                "name": "data",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{height}": {
+                "name": "height",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            },
+            "{usemap}": {
+                "name": "usemap",
+                "values": {}
+            },
+            "{width}": {
+                "name": "width",
+                "values": {}
+            }
+        }
+    },
+    "විස්තරය": {
+        "name": "meta",
+        "attributes": {
+            "අකුරුසෙට්එක": {
+                "name": "charset",
+                "values": {}
+            },
+            "{content}": {
+                "name": "content",
+                "values": {}
+            },
+            "{http-equiv}": {
+                "name": "http-equiv",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            }
+        }
+    },
+    "{command}": {
+        "name": "command",
+        "attributes": {
+            "{checked}": {
+                "name": "checked",
+                "values": {}
+            },
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{icon}": {
+                "name": "icon",
+                "values": {}
+            },
+            "{radiogroup}": {
+                "name": "radiogroup",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            }
+        }
+    },
+    "{blockquote}": {
+        "name": "blockquote",
+        "attributes": {
+            "{cite}": {
+                "name": "cite",
+                "values": {}
+            }
+        }
+    },
+    "{del}": {
+        "name": "del",
+        "attributes": {
+            "{cite}": {
+                "name": "cite",
+                "values": {}
+            },
+            "{datetime}": {
+                "name": "datetime",
+                "values": {}
+            }
+        }
+    },
+    "{ins}": {
+        "name": "ins",
+        "attributes": {
+            "{cite}": {
+                "name": "cite",
+                "values": {}
+            },
+            "{datetime}": {
+                "name": "datetime",
+                "values": {}
+            }
+        }
+    },
+    "{q}": {
+        "name": "q",
+        "attributes": {
+            "{cite}": {
+                "name": "cite",
+                "values": {}
+            }
+        }
+    },
+    "{basefont}": {
+        "name": "basefont",
+        "attributes": {
+            "{color}": {
+                "name": "color",
+                "values": {}
+            }
+        }
+    },
+    "අකුරු": {
+        "name": "font",
+        "attributes": {
+            "{color}": {
+                "name": "color",
+                "values": {}
+            },
+            "විශාලත්වය":{
+                "name":"size"
+            }
+        }
+    },
+    "ඈමිනීම": {
+        "name": "link",
+        "attributes": {
+            "{crossorigin}": {
+                "name": "crossorigin",
+                "values": {}
+            },
+            "ඉස්තානය": {
+                "name": "href",
+                "values": {}
+            },
+            "{hreflang}": {
+                "name": "hreflang",
+                "values": {}
+            },
+            "{importance}": {
+                "name": "importance",
+                "values": {}
+            },
+            "{integrity}": {
+                "name": "integrity",
+                "values": {}
+            },
+            "{media}": {
+                "name": "media",
+                "values": {}
+            },
+            "{referrerpolicy}": {
+                "name": "referrerpolicy",
+                "values": {}
+            },
+            "නෑකම": {
+                "name": "rel",
+                "values": {}
+            },
+            "{sizes}": {
+                "name": "sizes",
+                "values": {}
+            }
+        }
+    },
+    "{time}": {
+        "name": "time",
+        "attributes": {
+            "{datetime}": {
+                "name": "datetime",
+                "values": {}
+            }
+        }
+    },
+    "{track}": {
+        "name": "track",
+        "attributes": {
+            "{default}": {
+                "name": "default",
+                "values": {}
+            },
+            "{kind}": {
+                "name": "kind",
+                "values": {}
+            },
+            "{label}": {
+                "name": "label",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{srclang}": {
+                "name": "srclang",
+                "values": {}
+            }
+        }
+    },
+    "{fieldset}": {
+        "name": "fieldset",
+        "attributes": {
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            }
+        }
+    },
+    "{optgroup}": {
+        "name": "optgroup",
+        "attributes": {
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{label}": {
+                "name": "label",
+                "values": {}
+            }
+        }
+    },
+    "{option}": {
+        "name": "option",
+        "attributes": {
+            "{disabled}": {
+                "name": "disabled",
+                "values": {}
+            },
+            "{label}": {
+                "name": "label",
+                "values": {}
+            },
+            "{selected}": {
+                "name": "selected",
+                "values": {}
+            },
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
+    },
+    "{a}": {
+        "name": "a",
+        "attributes": {
+            "{download}": {
+                "name": "download",
+                "values": {}
+            },
+            "{href}": {
+                "name": "href",
+                "values": {}
+            },
+            "{hreflang}": {
+                "name": "hreflang",
+                "values": {}
+            },
+            "{media}": {
+                "name": "media",
+                "values": {}
+            },
+            "{ping}": {
+                "name": "ping",
+                "values": {}
+            },
+            "{referrerpolicy}": {
+                "name": "referrerpolicy",
+                "values": {}
+            },
+            "{rel}": {
+                "name": "rel",
+                "values": {}
+            },
+            "{shape}": {
+                "name": "shape",
+                "values": {}
+            },
+            "{target}": {
+                "name": "target",
+                "values": {}
+            }
+        }
+    },
+    "{contenteditable}": {
+        "name": "contenteditable",
+        "attributes": {
+            "{enterkeyhint}": {
+                "name": "enterkeyhint",
+                "values": {}
+            },
+            "{inputmode}": {
+                "name": "inputmode",
+                "values": {}
+            }
+        }
+    },
+    "{label}": {
+        "name": "label",
+        "attributes": {
+            "{for}": {
+                "name": "for",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            }
+        }
+    },
+    "{output}": {
+        "name": "output",
+        "attributes": {
+            "{for}": {
+                "name": "for",
+                "values": {}
+            },
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{name}": {
+                "name": "name",
+                "values": {}
+            }
+        }
+    },
+    "{meter}": {
+        "name": "meter",
+        "attributes": {
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{high}": {
+                "name": "high",
+                "values": {}
+            },
+            "{low}": {
+                "name": "low",
+                "values": {}
+            },
+            "{max}": {
+                "name": "max",
+                "values": {}
+            },
+            "{min}": {
+                "name": "min",
+                "values": {}
+            },
+            "{optimum}": {
+                "name": "optimum",
+                "values": {}
+            },
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
+    },
+    "{progress}": {
+        "name": "progress",
+        "attributes": {
+            "{form}": {
+                "name": "form",
+                "values": {}
+            },
+            "{max}": {
+                "name": "max",
+                "values": {}
+            },
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
+    },
+    "{canvas}": {
+        "name": "canvas",
+        "attributes": {
+            "{height}": {
+                "name": "height",
+                "values": {}
+            },
+            "{width}": {
+                "name": "width",
+                "values": {}
+            }
+        }
+    },
+    "{embed}": {
+        "name": "embed",
+        "attributes": {
+            "{height}": {
+                "name": "height",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            },
+            "{width}": {
+                "name": "width",
+                "values": {}
+            }
+        }
+    },
+    "{base}": {
+        "name": "base",
+        "attributes": {
+            "{href}": {
+                "name": "href",
+                "values": {}
+            },
+            "{target}": {
+                "name": "target",
+                "values": {}
+            }
+        }
+    },
+    "{bgsound}": {
+        "name": "bgsound",
+        "attributes": {
+            "{loop}": {
+                "name": "loop",
+                "values": {}
+            }
+        }
+    },
+    "අඩවිය": {
+        "name": "html",
+        "attributes": {
+            "{manifest}": {
+                "name": "manifest",
+                "values": {}
+            }
+        }
+    },
+    "{source}": {
+        "name": "source",
+        "attributes": {
+            "{media}": {
+                "name": "media",
+                "values": {}
+            },
+            "{sizes}": {
+                "name": "sizes",
+                "values": {}
+            },
+            "{src}": {
+                "name": "src",
+                "values": {}
+            },
+            "{srcset}": {
+                "name": "srcset",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            }
+        }
+    },
+    "{style}": {
+        "name": "style",
+        "attributes": {
+            "{media}": {
+                "name": "media",
+                "values": {}
+            },
+            "{scoped}": {
+                "name": "scoped",
+                "values": {}
+            },
+            "{type}": {
+                "name": "type",
+                "values": {}
+            }
+        }
+    },
+    "{map}": {
+        "name": "map",
+        "attributes": {
+            "{name}": {
+                "name": "name",
+                "values": {}
+            }
+        }
+    },
+    "{param}": {
+        "name": "param",
+        "attributes": {
+            "{name}": {
+                "name": "name",
+                "values": {}
+            },
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
+    },
+    "{details}": {
+        "name": "details",
+        "attributes": {
+            "{open}": {
+                "name": "open",
+                "values": {}
+            }
+        }
+    },
+    "{ol}": {
+        "name": "ol",
+        "attributes": {
+            "{reversed}": {
+                "name": "reversed",
+                "values": {}
+            },
+            "{start}": {
+                "name": "start",
+                "values": {}
+            }
+        }
+    },
+    "{menu}": {
+        "name": "menu",
+        "attributes": {
+            "{type}": {
+                "name": "type",
+                "values": {}
+            }
+        }
+    },
+    "{data}": {
+        "name": "data",
+        "attributes": {
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
+    },
+    "{li}": {
+        "name": "li",
+        "attributes": {
+            "{value}": {
+                "name": "value",
+                "values": {}
+            }
+        }
     },
     "මාතෘකා1":{
         "name":"h1"
@@ -56,30 +1583,5 @@
     },
     "පරිච්ඡේදය":{
         "name":"p"
-    },
-    "අකුරු":{
-        "name":"font",
-        "attributes":{
-            "වර්ගය":{
-                "name":"family"
-            },
-            "විශාලත්වය":{
-                "name":"size"
-            }
-        }
-    },
-    "රූපය":{
-        "name":"img",
-        "attributes":{
-            "ඉස්තානය":{
-                "name":"src"
-            },
-            "උස":{
-                "name":"height"
-            },
-            "පලල":{
-                "name":"width"
-            }
-        }
     }
 }
